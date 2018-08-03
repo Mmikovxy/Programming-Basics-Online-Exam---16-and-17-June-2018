@@ -1,0 +1,11 @@
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\Task1.deps.json
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\Task1.runtimeconfig.json
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\Task1.runtimeconfig.dev.json
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\Task1.dll
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\Task1.pdb
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.csprojAssemblyReference.cache
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.csproj.CoreCompileInputs.cache
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.AssemblyInfoInputs.cache
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.AssemblyInfo.cs
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.dll
+c:\users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\Task1.pdb
