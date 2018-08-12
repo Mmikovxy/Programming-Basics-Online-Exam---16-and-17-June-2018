@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\1CatExpenses.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\1CatExpenses.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\1CatExpenses.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\1CatExpenses.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\bin\Debug\netcoreapp2.0\1CatExpenses.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\1CatExpenses.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\1CatExpenses.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\1CatExpenses.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\1CatExpenses.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task1\obj\Debug\netcoreapp2.0\1CatExpenses.pdb

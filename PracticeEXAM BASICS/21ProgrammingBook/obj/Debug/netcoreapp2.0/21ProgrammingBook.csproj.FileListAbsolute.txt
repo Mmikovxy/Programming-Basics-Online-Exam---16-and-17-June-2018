@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\bin\Debug\netcoreapp2.0\21ProgrammingBook.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\bin\Debug\netcoreapp2.0\21ProgrammingBook.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\bin\Debug\netcoreapp2.0\21ProgrammingBook.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\bin\Debug\netcoreapp2.0\21ProgrammingBook.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\bin\Debug\netcoreapp2.0\21ProgrammingBook.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\obj\Debug\netcoreapp2.0\21ProgrammingBook.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\obj\Debug\netcoreapp2.0\21ProgrammingBook.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\obj\Debug\netcoreapp2.0\21ProgrammingBook.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\obj\Debug\netcoreapp2.0\21ProgrammingBook.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\21ProgrammingBook\obj\Debug\netcoreapp2.0\21ProgrammingBook.pdb

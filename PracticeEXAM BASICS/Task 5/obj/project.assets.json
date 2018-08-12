@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 5\\Task 5.csproj",
-      "projectName": "Task 5",
-      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 5\\Task 5.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 5\\5CatLife.csproj",
+      "projectName": "5CatLife",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 5\\5CatLife.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 5\\obj\\",
       "projectStyle": "PackageReference",

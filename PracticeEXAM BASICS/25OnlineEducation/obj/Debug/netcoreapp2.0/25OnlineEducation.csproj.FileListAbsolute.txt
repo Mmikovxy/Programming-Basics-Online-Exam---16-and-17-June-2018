@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\bin\Debug\netcoreapp2.0\25OnlineEducation.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\bin\Debug\netcoreapp2.0\25OnlineEducation.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\bin\Debug\netcoreapp2.0\25OnlineEducation.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\bin\Debug\netcoreapp2.0\25OnlineEducation.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\bin\Debug\netcoreapp2.0\25OnlineEducation.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\25OnlineEducation\obj\Debug\netcoreapp2.0\25OnlineEducation.pdb

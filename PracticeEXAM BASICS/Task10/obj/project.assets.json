@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task10\\Task10.csproj",
-      "projectName": "Task10",
-      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task10\\Task10.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task10\\9CatWatch.csproj",
+      "projectName": "9CatWatch",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task10\\9CatWatch.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task10\\obj\\",
       "projectStyle": "PackageReference",

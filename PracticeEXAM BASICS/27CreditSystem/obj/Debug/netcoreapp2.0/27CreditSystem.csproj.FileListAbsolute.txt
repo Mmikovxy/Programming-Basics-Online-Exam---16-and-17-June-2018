@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\bin\Debug\netcoreapp2.0\27CreditSystem.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\bin\Debug\netcoreapp2.0\27CreditSystem.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\bin\Debug\netcoreapp2.0\27CreditSystem.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\bin\Debug\netcoreapp2.0\27CreditSystem.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\bin\Debug\netcoreapp2.0\27CreditSystem.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\27CreditSystem\obj\Debug\netcoreapp2.0\27CreditSystem.pdb

@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\bin\Debug\netcoreapp2.0\7CatFood.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\bin\Debug\netcoreapp2.0\7CatFood.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\bin\Debug\netcoreapp2.0\7CatFood.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\bin\Debug\netcoreapp2.0\7CatFood.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\bin\Debug\netcoreapp2.0\7CatFood.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 7\obj\Debug\netcoreapp2.0\7CatFood.pdb

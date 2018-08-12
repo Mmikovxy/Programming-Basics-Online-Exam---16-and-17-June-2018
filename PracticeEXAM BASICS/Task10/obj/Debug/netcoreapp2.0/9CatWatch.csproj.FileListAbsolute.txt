@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\bin\Debug\netcoreapp2.0\9CatWatch.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\bin\Debug\netcoreapp2.0\9CatWatch.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\bin\Debug\netcoreapp2.0\9CatWatch.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\bin\Debug\netcoreapp2.0\9CatWatch.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\bin\Debug\netcoreapp2.0\9CatWatch.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\obj\Debug\netcoreapp2.0\9CatWatch.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\obj\Debug\netcoreapp2.0\9CatWatch.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\obj\Debug\netcoreapp2.0\9CatWatch.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\obj\Debug\netcoreapp2.0\9CatWatch.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task10\obj\Debug\netcoreapp2.0\9CatWatch.pdb

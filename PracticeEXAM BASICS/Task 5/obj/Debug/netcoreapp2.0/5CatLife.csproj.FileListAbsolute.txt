@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\bin\Debug\netcoreapp2.0\5CatLife.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\bin\Debug\netcoreapp2.0\5CatLife.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\bin\Debug\netcoreapp2.0\5CatLife.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\bin\Debug\netcoreapp2.0\5CatLife.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\bin\Debug\netcoreapp2.0\5CatLife.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 5\obj\Debug\netcoreapp2.0\5CatLife.pdb

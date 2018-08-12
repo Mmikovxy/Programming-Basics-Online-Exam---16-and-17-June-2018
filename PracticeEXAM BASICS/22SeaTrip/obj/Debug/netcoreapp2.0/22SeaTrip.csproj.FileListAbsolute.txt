@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\bin\Debug\netcoreapp2.0\22SeaTrip.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\bin\Debug\netcoreapp2.0\22SeaTrip.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\bin\Debug\netcoreapp2.0\22SeaTrip.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\bin\Debug\netcoreapp2.0\22SeaTrip.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\bin\Debug\netcoreapp2.0\22SeaTrip.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\22SeaTrip\obj\Debug\netcoreapp2.0\22SeaTrip.csprojAssemblyReference.cache

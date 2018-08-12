@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\bin\Debug\netcoreapp2.0\24AnnualSalary.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\bin\Debug\netcoreapp2.0\24AnnualSalary.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\bin\Debug\netcoreapp2.0\24AnnualSalary.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\bin\Debug\netcoreapp2.0\24AnnualSalary.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\bin\Debug\netcoreapp2.0\24AnnualSalary.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\24AnnualSalary\obj\Debug\netcoreapp2.0\24AnnualSalary.pdb

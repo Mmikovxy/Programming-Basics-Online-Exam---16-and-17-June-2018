@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\bin\Debug\netcoreapp2.0\11CatShelter.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\bin\Debug\netcoreapp2.0\11CatShelter.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\bin\Debug\netcoreapp2.0\11CatShelter.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\bin\Debug\netcoreapp2.0\11CatShelter.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\bin\Debug\netcoreapp2.0\11CatShelter.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\11CatShelter\obj\Debug\netcoreapp2.0\11CatShelter.csprojAssemblyReference.cache

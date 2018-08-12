@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 6\\Task 6.csproj",
-      "projectName": "Task 6",
-      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 6\\Task 6.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 6\\6CatTrainingAttendance.csproj",
+      "projectName": "6CatTrainingAttendance",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 6\\6CatTrainingAttendance.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 6\\obj\\",
       "projectStyle": "PackageReference",

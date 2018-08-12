@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 8\\Task 8.csproj",
-      "projectName": "Task 8",
-      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 8\\Task 8.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 8\\8CatNumbers.csproj",
+      "projectName": "8CatNumbers",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 8\\8CatNumbers.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 8\\obj\\",
       "projectStyle": "PackageReference",

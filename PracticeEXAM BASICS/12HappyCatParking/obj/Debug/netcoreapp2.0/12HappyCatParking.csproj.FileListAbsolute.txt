@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\bin\Debug\netcoreapp2.0\12HappyCatParking.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\bin\Debug\netcoreapp2.0\12HappyCatParking.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\bin\Debug\netcoreapp2.0\12HappyCatParking.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\bin\Debug\netcoreapp2.0\12HappyCatParking.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\bin\Debug\netcoreapp2.0\12HappyCatParking.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\12HappyCatParking\obj\Debug\netcoreapp2.0\12HappyCatParking.csprojAssemblyReference.cache

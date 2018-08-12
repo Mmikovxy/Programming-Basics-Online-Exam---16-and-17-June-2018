@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\bin\Debug\netcoreapp2.0\3CatShirt.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\bin\Debug\netcoreapp2.0\3CatShirt.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\bin\Debug\netcoreapp2.0\3CatShirt.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\bin\Debug\netcoreapp2.0\3CatShirt.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\bin\Debug\netcoreapp2.0\3CatShirt.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 3\obj\Debug\netcoreapp2.0\3CatShirt.pdb

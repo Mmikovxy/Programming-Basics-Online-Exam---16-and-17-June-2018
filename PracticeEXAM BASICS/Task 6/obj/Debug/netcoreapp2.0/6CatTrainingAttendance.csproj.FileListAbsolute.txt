@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\bin\Debug\netcoreapp2.0\6CatTrainingAttendance.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\bin\Debug\netcoreapp2.0\6CatTrainingAttendance.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\bin\Debug\netcoreapp2.0\6CatTrainingAttendance.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\bin\Debug\netcoreapp2.0\6CatTrainingAttendance.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\bin\Debug\netcoreapp2.0\6CatTrainingAttendance.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 6\obj\Debug\netcoreapp2.0\6CatTrainingAttendance.pdb

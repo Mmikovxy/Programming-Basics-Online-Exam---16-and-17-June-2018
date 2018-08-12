@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\bin\Debug\netcoreapp2.0\10CatFoodMeow.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\bin\Debug\netcoreapp2.0\10CatFoodMeow.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\bin\Debug\netcoreapp2.0\10CatFoodMeow.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\bin\Debug\netcoreapp2.0\10CatFoodMeow.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\bin\Debug\netcoreapp2.0\10CatFoodMeow.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\obj\Debug\netcoreapp2.0\10CatFoodMeow.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\obj\Debug\netcoreapp2.0\10CatFoodMeow.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\obj\Debug\netcoreapp2.0\10CatFoodMeow.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\obj\Debug\netcoreapp2.0\10CatFoodMeow.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 11\obj\Debug\netcoreapp2.0\10CatFoodMeow.pdb

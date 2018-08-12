@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\Task1.csproj",
-      "projectName": "Task1",
-      "projectPath": "c:\\users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\1CatExpenses.csproj",
+      "projectName": "1CatExpenses",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\1CatExpenses.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

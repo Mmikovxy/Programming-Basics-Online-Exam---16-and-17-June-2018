@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\bin\Debug\netcoreapp2.0\23CalorieCalculator.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\bin\Debug\netcoreapp2.0\23CalorieCalculator.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\bin\Debug\netcoreapp2.0\23CalorieCalculator.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\bin\Debug\netcoreapp2.0\23CalorieCalculator.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\bin\Debug\netcoreapp2.0\23CalorieCalculator.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\obj\Debug\netcoreapp2.0\23CalorieCalculator.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\obj\Debug\netcoreapp2.0\23CalorieCalculator.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\obj\Debug\netcoreapp2.0\23CalorieCalculator.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\obj\Debug\netcoreapp2.0\23CalorieCalculator.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\23CalorieCalculator\obj\Debug\netcoreapp2.0\23CalorieCalculator.pdb

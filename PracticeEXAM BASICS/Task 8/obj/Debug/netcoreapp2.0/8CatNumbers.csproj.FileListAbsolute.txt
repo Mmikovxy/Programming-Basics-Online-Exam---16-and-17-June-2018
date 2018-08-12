@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\bin\Debug\netcoreapp2.0\8CatNumbers.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\bin\Debug\netcoreapp2.0\8CatNumbers.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\bin\Debug\netcoreapp2.0\8CatNumbers.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\bin\Debug\netcoreapp2.0\8CatNumbers.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\bin\Debug\netcoreapp2.0\8CatNumbers.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task 8\obj\Debug\netcoreapp2.0\8CatNumbers.pdb

@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 3\\Task 3.csproj",
-      "projectName": "Task 3",
-      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 3\\Task 3.csproj",
+      "projectUniqueName": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 3\\3CatShirt.csproj",
+      "projectName": "3CatShirt",
+      "projectPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 3\\3CatShirt.csproj",
       "packagesPath": "C:\\Users\\marty\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marty\\source\\repos\\PracticeEXAM BASICS\\Task 3\\obj\\",
       "projectStyle": "PackageReference",

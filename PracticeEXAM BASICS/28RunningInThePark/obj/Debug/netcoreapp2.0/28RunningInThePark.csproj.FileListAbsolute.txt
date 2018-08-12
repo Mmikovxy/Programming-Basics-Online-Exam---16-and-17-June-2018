@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\bin\Debug\netcoreapp2.0\28RunningInThePark.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\bin\Debug\netcoreapp2.0\28RunningInThePark.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\bin\Debug\netcoreapp2.0\28RunningInThePark.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\bin\Debug\netcoreapp2.0\28RunningInThePark.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\bin\Debug\netcoreapp2.0\28RunningInThePark.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\28RunningInThePark\obj\Debug\netcoreapp2.0\28RunningInThePark.pdb

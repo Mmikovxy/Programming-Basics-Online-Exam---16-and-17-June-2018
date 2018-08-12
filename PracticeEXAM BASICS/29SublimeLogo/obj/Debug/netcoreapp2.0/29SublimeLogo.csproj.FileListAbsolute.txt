@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\bin\Debug\netcoreapp2.0\29SublimeLogo.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\bin\Debug\netcoreapp2.0\29SublimeLogo.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\bin\Debug\netcoreapp2.0\29SublimeLogo.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\bin\Debug\netcoreapp2.0\29SublimeLogo.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\bin\Debug\netcoreapp2.0\29SublimeLogo.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\29SublimeLogo\obj\Debug\netcoreapp2.0\29SublimeLogo.csprojAssemblyReference.cache

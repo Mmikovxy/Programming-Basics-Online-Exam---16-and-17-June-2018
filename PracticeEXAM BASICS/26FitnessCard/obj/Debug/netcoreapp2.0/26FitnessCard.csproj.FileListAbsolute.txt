@@ -1,0 +1,11 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\bin\Debug\netcoreapp2.0\26FitnessCard.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\bin\Debug\netcoreapp2.0\26FitnessCard.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\bin\Debug\netcoreapp2.0\26FitnessCard.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\bin\Debug\netcoreapp2.0\26FitnessCard.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\bin\Debug\netcoreapp2.0\26FitnessCard.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\26FitnessCard\obj\Debug\netcoreapp2.0\26FitnessCard.pdb

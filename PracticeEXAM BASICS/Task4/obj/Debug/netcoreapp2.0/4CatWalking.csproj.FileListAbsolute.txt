@@ -1,0 +1,10 @@
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\bin\Debug\netcoreapp2.0\4CatWalking.deps.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\bin\Debug\netcoreapp2.0\4CatWalking.runtimeconfig.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\bin\Debug\netcoreapp2.0\4CatWalking.runtimeconfig.dev.json
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\bin\Debug\netcoreapp2.0\4CatWalking.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\bin\Debug\netcoreapp2.0\4CatWalking.pdb
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\obj\Debug\netcoreapp2.0\4CatWalking.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\obj\Debug\netcoreapp2.0\4CatWalking.AssemblyInfoInputs.cache
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\obj\Debug\netcoreapp2.0\4CatWalking.AssemblyInfo.cs
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\obj\Debug\netcoreapp2.0\4CatWalking.dll
+C:\Users\marty\source\repos\PracticeEXAM BASICS\Task4\obj\Debug\netcoreapp2.0\4CatWalking.pdb
